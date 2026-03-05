@@ -6,7 +6,7 @@
 <!-- STATS BADGE BAR -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakshi13-05&label=PROFILE+VIEWS&color=2c3e50&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Sakshi13-05?label=FOLLOWERS&logo=github&style=for-the-badge&color=2c3e50" />
+  <img src="https://badgen.net/github/followers/Sakshi13-05?icon=github&color=2c3e50&label=FOLLOWERS&labelColor=333333" height="28" />
   <img src="https://img.shields.io/github/stars/Sakshi13-05?label=TOTAL+STARS&logo=github&style=for-the-badge&color=2c3e50" />
 </p>
 
