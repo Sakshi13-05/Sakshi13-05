@@ -3,12 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=SAKSHI%20CHAVAN&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20|%20AIML%20Learner&descSize=20&descAlignY=60&image=https://github.com/user-attachments/assets/09dcb5b5-b8bf-4857-a1e0-b1e4fee797ee" width="100%" />
 </p>
 
-<!-- STATS BADGE BAR -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshi13-05&label=PROFILE+VIEWS&color=2c3e50&style=for-the-badge" />
-  <img src="https://badgen.net/github/followers/Sakshi13-05?icon=github&color=2c3e50&label=FOLLOWERS&labelColor=333333" height="28" />
-  <img src="https://img.shields.io/github/stars/Sakshi13-05?label=TOTAL+STARS&logo=github&style=for-the-badge&color=2c3e50" />
-</p>
+
 
 <!-- NEW ANIMATED TYPING LINE -->
 <h2 align="center">
