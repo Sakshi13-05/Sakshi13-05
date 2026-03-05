@@ -6,8 +6,8 @@
 <!-- STATS BADGE BAR -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakshi13-05&label=PROFILE+VIEWS&color=2c3e50&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Sakshi13-05?label=FOLLOWERS&style=for-the-badge&color=2c3e50" />
-  <img src="https://img.shields.io/github/stars/Sakshi13-05?label=TOTAL+STARS&style=for-the-badge&color=2c3e50" />
+  <img src="https://img.shields.io/github/followers/Sakshi13-05?label=FOLLOWERS&logo=github&style=for-the-badge&color=2c3e50" />
+  <img src="https://img.shields.io/github/stars/Sakshi13-05?label=TOTAL+STARS&logo=github&style=for-the-badge&color=2c3e50" />
 </p>
 
 <!-- NEW ANIMATED TYPING LINE -->
